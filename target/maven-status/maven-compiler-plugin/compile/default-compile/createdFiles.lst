@@ -1,3 +1,4 @@
+ru/mirea/data/Controllers/ItemsController.class
 ru/mirea/data/Controllers/CartController.class
 ru/mirea/data/MainClasses/Stuff.class
 ru/mirea/data/MainClasses/Cart.class
@@ -5,6 +6,7 @@ ru/mirea/data/MainClasses/Item.class
 ru/mirea/data/MainClasses/Pet.class
 ru/mirea/data/Controllers/PetController.class
 ru/mirea/data/Services/PetService.class
+ru/mirea/data/Connector.class
 ru/mirea/data/MainClasses/Balance.class
 ru/mirea/data/Application.class
 ru/mirea/data/Services/StuffService.class
@@ -14,3 +16,4 @@ ru/mirea/data/Controllers/BalanceController.class
 ru/mirea/data/Services/BalanceService.class
 ru/mirea/data/Services/CurrencyService.class
 ru/mirea/data/Services/CartService.class
+ru/mirea/data/SQLConnector.class
